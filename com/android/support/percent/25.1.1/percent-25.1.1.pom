@@ -6,6 +6,26 @@
   <artifactId>percent</artifactId>
   <version>25.1.1</version>
   <packaging>aar</packaging>
+  <name>Android Percent Support Library</name>
+  <description>Android Percent Support Library</description>
+  <url>http://developer.android.com/tools/extras/support-library.html</url>
+  <inceptionYear>2015</inceptionYear>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>The Android Open Source Project</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://android.googlesource.com/platform/frameworks/support</connection>
+    <url>http://source.android.com</url>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
